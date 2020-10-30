@@ -1,0 +1,2 @@
+# minimax algorithm for chess
+
