@@ -1,3 +1,5 @@
+# this is not the final version of my chess project, which is why it includes a lot of commented out code that I haven't yet deleted.
+
 import pygame
 import time
 import random
